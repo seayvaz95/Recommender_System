@@ -1,0 +1,9 @@
+/.ipynb_checkpoints
+/.idea
+*.pdf
+*.zip
+*.tar
+*.lprof
+*.pyc
+*.pickle
+*.xlsx
